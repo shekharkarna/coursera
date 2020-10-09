@@ -1,0 +1,30 @@
+{
+  "name": "coursera",
+  "version": "1.0.0",
+  "description": "front end project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shekharkarna/coursera.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "git",
+    "frontend",
+    "coursera",
+    "node"
+  ],
+  "author": "shekhar karna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shekharkarna/coursera/issues"
+  },
+  "homepage": "https://github.com/shekharkarna/coursera#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
